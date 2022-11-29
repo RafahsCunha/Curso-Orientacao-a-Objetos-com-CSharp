@@ -1,0 +1,15 @@
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\bin\Debug\net6.0\projeto_teste_csharp.exe
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\bin\Debug\net6.0\projeto_teste_csharp.deps.json
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\bin\Debug\net6.0\projeto_teste_csharp.runtimeconfig.json
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\bin\Debug\net6.0\projeto_teste_csharp.dll
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\bin\Debug\net6.0\projeto_teste_csharp.pdb
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\projeto_teste_csharp.csproj.AssemblyReference.cache
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\projeto_teste_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\projeto_teste_csharp.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\projeto_teste_csharp.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\projeto_teste_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\projeto_teste_csharp.dll
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\refint\projeto_teste_csharp.dll
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\projeto_teste_csharp.pdb
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\projeto_teste_csharp.genruntimeconfig.cache
+C:\Users\Rafa\Desktop\projeto teste\projeto_teste_csharp\projeto_teste_csharp\obj\Debug\net6.0\ref\projeto_teste_csharp.dll
