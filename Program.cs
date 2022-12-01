@@ -1,4 +1,5 @@
 ﻿using projeto_teste_csharp._11_Atributos_e_metodos_Estaticos;
+using projeto_teste_csharp._12_Abstracao;
 using projeto_teste_csharp.A10_Polimorfismo;
 using projeto_teste_csharp.Calcula_Imc;
 using projeto_teste_csharp.Construtores;
@@ -92,9 +93,18 @@ class Programa
         Exemplo.valor2 = 100;
         Console.WriteLine("Valor1: " + Exemplo.valor1);
         Console.WriteLine("Valor2: " + Exemplo.valor2);
+
+        // Exemplo de Abstrãção - classe abstrata
+
+        PessoaFisica pessoaFisica = new PessoaFisica();
+        pessoaFisica.taxaEmprestimo(1000); // método obrigatório da classe abstrata Padrao
+        pessoaFisica.calculaPoupanca(1000, 0.15); // método não obrigatório da classe abstrata Padrao
+
+        PessoaJuridica pessoaJuridica = new PessoaJuridica();
+        pessoaJuridica.taxaEmprestimo(1000); // método obrigatório da classe abstrata Padrao
+        pessoaJuridica.calculaPoupanca(1000, 0.25); // método não obrigatório da classe abstrata Padrao
+
         
-    
-    
     }
 }
 
