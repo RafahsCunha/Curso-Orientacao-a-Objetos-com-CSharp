@@ -1,4 +1,6 @@
-﻿using projeto_teste_csharp._11_Atributos_e_metodos_Estaticos;
+﻿using Projeto_Orientacao_a_Objetos_com_CSharp._13_Interface;
+using Projeto_Orientacao_a_Objetos_com_CSharp.Interface;
+using projeto_teste_csharp._11_Atributos_e_metodos_Estaticos;
 using projeto_teste_csharp._12_Abstracao;
 using projeto_teste_csharp.A10_Polimorfismo;
 using projeto_teste_csharp.Calcula_Imc;
@@ -104,7 +106,14 @@ class Programa
         pessoaJuridica.taxaEmprestimo(1000); // método obrigatório da classe abstrata Padrao
         pessoaJuridica.calculaPoupanca(1000, 0.25); // método não obrigatório da classe abstrata Padrao
 
+
+        // Interface
+        CalcularNumeros calcularNum = new CalcularNumeros();
+        calcularNum.somar(10, 5);
+        calcularNum.subtrair(20, 5);
         
+
+
     }
 }
 
